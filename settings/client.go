@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	pokecache "github.com/eqo-m/pokedex/internal"
+	pokecache "github.com/eqo-m/pokedex/internal/pokecache"
 )
 
 // Client -
